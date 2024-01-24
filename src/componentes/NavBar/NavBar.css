@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 3px solid green;
+}
+
+header a{
+    text-decoration: none;
+    color: green;
+}
+
+h1 {
+    color: green;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+    margin: 1.5rem;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 20px;
+}
