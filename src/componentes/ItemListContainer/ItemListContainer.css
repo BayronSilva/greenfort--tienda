@@ -1,5 +1,12 @@
+.contenedorItemListContainer{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 h2 {
-    text-align: center;
     color: green;
     font-size: 30px;
+    font-weight: 600;
 }

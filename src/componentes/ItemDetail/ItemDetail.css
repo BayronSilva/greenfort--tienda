@@ -1,12 +1,12 @@
-
 .contenedorItem {
     text-align: center;
     border: 2px solid green;
     margin: 3rem;
-    width: 50%;
     align-self: center;
+    padding: 40px;
 }
 
 .contenedorItem img {
     width: 10vw;
 }
+
