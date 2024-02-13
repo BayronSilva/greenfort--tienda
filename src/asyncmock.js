@@ -1,12 +1,12 @@
 const productos = [
-    {id: "1", nombre:"Greenfort", precio: 15000, img: "../img/greenfort-capsulas.png", idCat:"1"},
-    {id: "2", nombre:"Betacar Solar", precio: 10000, img: "../img/betacar.png", idCat:"1"},
-    {id: "3", nombre:"Vari Pax Forte", precio: 12000, img: "../img/varipax.png", idCat:"1"},
-    {id: "4", nombre:"Vitamina E", precio: 6000, img: "../img/vitamina-e.png", idCat:"1"},
-    {id: "5", nombre:"Vision Help", precio: 8000 , img: "../img/visionhelp.png", idCat:"1"},
-    {id: "6", nombre:"Reuma Huesitos", precio: 2000, img: "../img/reuma-huesitos.png", idCat:"2"},
-    {id: "7", nombre:"Propoleo", precio: 5000, img: "../img/propoleo.png", idCat:"3"},
-    {id: "8", nombre:"Promiel", precio: 4000, img: "../img/promiel.png", idCat:"3"}
+    {id: "1", nombre:"Greenfort", precio: 15000, img: "../img/greenfort-capsulas.png", idCat:"1", stock: 50},
+    {id: "2", nombre:"Betacar Solar", precio: 10000, img: "../img/betacar.png", idCat:"1", stock: 50},
+    {id: "3", nombre:"Vari Pax Forte", precio: 12000, img: "../img/varipax.png", idCat:"1", stock: 50},
+    {id: "4", nombre:"Vitamina E", precio: 6000, img: "../img/vitamina-e.png", idCat:"1", stock: 50},
+    {id: "5", nombre:"Vision Help", precio: 8000 , img: "../img/visionhelp.png", idCat:"1", stock: 50},
+    {id: "6", nombre:"Reuma Huesitos", precio: 2000, img: "../img/reuma-huesitos.png", idCat:"2", stock: 50},
+    {id: "7", nombre:"Propoleo", precio: 5000, img: "../img/propoleo.png", idCat:"3", stock: 50},
+    {id: "8", nombre:"Promiel", precio: 4000, img: "../img/promiel.png", idCat:"3", stock: 50}
 ]
 
 
