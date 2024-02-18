@@ -1,8 +1,21 @@
-# React + Vite
+# Tienda Greenfort
+Proyecto e-commerce básico elaborado durante curso React en Coderhouse. Aplicación permite ver lista de productos correspondientes a productos naturales, relacionados al área de la salud y asi realizar compras de estos en línea. Productos se encuentran almacenados en Firebase.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias utilizadas
+-React.
+-Vite.
+-React Router.
+-Firebase.
+-Sweet Alert.
 
-Currently, two official plugins are available:
+## Funcionalidades
+-Ver lista de productos disponibles.
+-Agregar productos a carrito de compras.
+-Ver carrito de compras.
+-Simular venta de productos recibiendo orden id.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### instalación
+1. Clonar repositorio en máquina local.
+2. Abrir terminal.
+3. Ejecucion de comando npm  install para descargar los módulos y dependencias.
+4. Ejecucion comando np run dev para visualizar el proyecto.

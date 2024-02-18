@@ -1,9 +1,43 @@
 .contenedorItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     border: 2px solid green;
     margin: 3rem;
     align-self: center;
     padding: 40px;
+}
+
+.contenedorItem a{
+    text-decoration: none;
+    background-color: greenyellow;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+    border: solid 2px black;
+}
+
+.contenedorItem .datosItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.contenedorItem .datosItem h3 {
+    color: green;
+    padding: 10px;
+    font-size: 35px;
+}
+
+.contenedorItem .datosItem p {
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .contenedorItem img {

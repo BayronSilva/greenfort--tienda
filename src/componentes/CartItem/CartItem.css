@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedorCartItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 1px solid green;
+    margin: 15px;
+    padding: 15px;
+}
+
+.contenedorCartItem p {
+    padding: 20px;
+}
+
+
+.contenedorCartItem h3 {
+    color: green;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.contenedorCartItem p{
+    font-size: 18px;
+}
