@@ -3,7 +3,7 @@ import { CarritoContext } from "../context/CarritoContext";
 import { db } from "../../services/config";
 import { collection, addDoc, updateDoc, getDoc, doc } from "firebase/firestore";
 import Swal from "sweetalert2";
-import "./checkout.css"
+import "./checkout.css";
 
 const Checkout = () => {
     const {carrito, vaciarCarrito, total} = useContext(CarritoContext);
